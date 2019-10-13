@@ -1,2 +1,5 @@
-﻿测试git add 命令
+﻿使用 git init 初始化仓库
+测试git add 命令
 测试git commit -m "xxx" 命令
+测试 git status 
+测试 git diff
