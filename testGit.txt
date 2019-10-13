@@ -3,3 +3,4 @@
 测试git commit -m "xxx" 命令
 测试 git status 
 测试 git diff
+测试 git checkout
